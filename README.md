@@ -13,7 +13,8 @@ Saya juga mempelajari bahasa/framework yang populer saat ini seperti: Python, PH
 ### 🌟 Design Skills:
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
   <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="After Effects" />
+  <img src="https://img.shields.io/badge/Adobe_After_Effects-9977FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="Capcut" />
 </p>
