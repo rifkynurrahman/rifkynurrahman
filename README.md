@@ -4,21 +4,19 @@ Saya tertarik di dunia teknologi yang luas. Fokus saya adalah Progammer yang ter
 
 ### 🥇 Main Skills:
 <p align="left"> 
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/-00599C?style=flat-square&logo=cplusplus&logoColor=white" width="50" alt="C++" />
+  <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white" width="50" alt="C" />
+  <img src="https://img.shields.io/badge/-ED8B00?style=flat-square&logo=openjdk&logoColor=white" width="50" alt="Java" />
+  <img src="https://img.shields.io/badge/-7F52FF?style=flat-square&logo=kotlin&logoColor=white" width="50" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/-3DDC84?style=flat-square&logo=android&logoColor=white" width="50" alt="Android" />
 </p>
-
-Saya juga mempelajari bahasa/framework yang populer saat ini seperti: Python, PHP, Laravel, NextJS, Vue, Jetpack Compose, Flutter, dll.
 
 ### 🎮 My Favorite IDE
 <p align="left">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/-3DDC84?style=flat-square&logo=android-studio&logoColor=white" width="50" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" width="50" alt="VSCode" />
+  <img src="https://img.shields.io/badge/-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" width="50" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/-57A143?style=flat-square&logo=neovim&logoColor=white" width="50" alt="Neovim" />
 </p>
 
 ### 🌟 Design Skills:
