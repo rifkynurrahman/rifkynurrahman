@@ -18,3 +18,6 @@ Saya juga mempelajari bahasa/framework yang populer saat ini seperti: Python, PH
   <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="After Effects" />
   <img src="https://img.shields.io/badge/Capcut-99000FF?style=for-the-badge&logo=Capcut&logoColor=white" alt="Capcut" />
 </p>
+
+## 🏆 Achievements
+* **Gold Medalist** at YNSF 2026 for the "SI-BORI" project.
