@@ -21,3 +21,4 @@ Saya juga mempelajari bahasa/framework yang populer saat ini seperti: Python, PH
 
 ## 🏆 Achievements
 * **Gold Medalist** at YNSF 2026 for the "SI-BORI" project.
+* **Gold Medalist** at NISF 2026 for the "SI-BOAGO" project.
